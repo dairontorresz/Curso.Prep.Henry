@@ -1,0 +1,7 @@
+	Variables: supongamos que tenemos un armario de libros, la variable seria un lugar que asignamos para 
+guardar un libro, a este lugar le podemos poner un nombre como libro de matematicas y va a guardar un libro que despues se puede cambiar y poner un libro de ciencias por ejemplo.
+	Strings: son palabras o textos que se encierran por comillas para identificarlas, strings significa cadenas osea son cadenas pero de letras (caracteres).
+	Funciones:son pedasos de codigo que se puede reutilizar como cuando se necesita hacer una figura en un muchos cuadernos, simplemente se hace una sola figura y para copiarla a los demas cuadernos se calca muchas veces.
+cuado se le pasa un argumento es que quieres que "opere" con este, en el ejemplo del cuaderno seria como decirle que con color azul y el return seria ya lo que me devuelve la funcion en la figura seria la figura pintada de azul.
+	Declaraciones if: Es un condicional como cuando la mama le dice. Puede salir a jugar si te comes la ensalada. el if es valido solo y solo si te comes la ensalada sino no sales.
+Valores booleanos: Son como falso y verdadero o los jegos que solo tienen si o no, no hay mas opciones. 
