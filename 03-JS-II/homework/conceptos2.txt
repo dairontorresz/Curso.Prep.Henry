@@ -1,0 +1,5 @@
+	for: Es un ciclo que recibe tres parametros y supongamos que los compañeros de clase van a correr. Entonces, el primer parametro dice como quien hace la accion por ejemplo de tus compañeros de clase 
+elijes a Camilo. El segundo parametro seria un limite por ejemplo, Camilo corre hasta que de dos vueltas a la manzana y el tercer parametro seria como lo va a hacer por ejemplo, de espaldas o con un pie. 
+	$$: Este es un and y se "hace" si cumple dos condiciones por ejemplo la luz se va a encender si hay energia y si enciendo el interruptor, si alguna de ellas no se cumple sencillamente no se enciende la luz.
+	|| Este es un or y se "hace" cuando cumple una de dos opciones por ejemplo: voy a desayunar pan o torta. no importa cual de las dos elija detodas maneras voy a desayunar.
+	!: Este es para negar algo es como cuando dices una mentira, a los ojos de tu mama es verdad pero cruzas los dedos lo que significa que es mentira.
